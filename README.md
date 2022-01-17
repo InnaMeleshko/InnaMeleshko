@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning html,scss and js
 - 💞️ I’m looking to collaborate on web-development and slicing psd in html
-- 📫 You can reach me on iamlayout@gmail.com
+- 📫 You can reach me on innakabyshava@gmail.com
 
 <!---
 InnaMeleshko/InnaMeleshko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
