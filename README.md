@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Inna Meleshko
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning html,scss and js
-- 💞️ I’m looking to collaborate on web-development and slicing psd in html
-- 📫 You can reach me on innakabyshava@gmail.com
+- 👀 I’m interested in front-end development
+- 🌱 I’m currently learning html,scss js and react
+- 💞️ I’m looking to collaborate on frontend
+- 📫 You can reach me on dev.mialeshka@gmail.com
 
 <!---
 InnaMeleshko/InnaMeleshko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
