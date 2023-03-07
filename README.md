@@ -30,7 +30,6 @@ My name is Inna and I'm a front-end developer.
 
 ##### Tools
 
-<img align="left" alt="Github" width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
 
 <img align="left" alt="Npm" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 
