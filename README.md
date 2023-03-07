@@ -1,7 +1,6 @@
 - Hi, I’m Inna Meleshko
-- I’m interested in front-end development
-- I’m currently learning HTML,SCSS, JS and React
-- I’m looking for junior frontend-developer position 
+- I’m interested in front-end development and currently working on several personal projects, using JavaScript, TypeScript, HTML, Scss, React, Node.js.
+- I’m looking for frontend-developer position 
 - You can reach me on dev.mialeshka@gmail.com
 
 <!---
