@@ -1,7 +1,7 @@
 - Hi, I’m Inna Meleshko
 - I’m interested in front-end development and currently working on several personal projects, using JavaScript, TypeScript, HTML, Scss, React, Node.js.
 - I’m looking for frontend-developer position 
-- You can reach me on dev.mialeshka@gmail.com
+
 
 <!---
 InnaMeleshko/InnaMeleshko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
